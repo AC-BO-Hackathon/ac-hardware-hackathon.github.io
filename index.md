@@ -56,6 +56,8 @@ menu_icon: house-door
 
 {% if event_status != "over" %}
 
+NOTE: 🚧 This is in draft form and is being adapted from the AC BO Hackathon website template.
+
 With the emergence of new [Bayesian optimization tools for the physical sciences](https://chat.openai.com/share/ac610758-2ac8-4b38-8dd5-25e6c46ad2a6), it is important to understand their strengths and weaknesses, reduce the barrier to use, and adapt them for real-world problems. We will put these tools to the test! Scientists from the Acceleration Consortium and Merck KGaA are hosting a 2-day virtual hackathon on {{ site.event_date }} for researchers to work collaboratively in teams on projects related to Bayesian optimization.
 
 Researchers can propose projects from [a range of topics](_/../projects.md) such as applying algorithms to existing benchmarks, developing new benchmark tasks, creating instructional tutorials, proposing real-world chemistry and materials optimization tasks, and more. After the hackathon, results will be collated and presented in a scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"} Join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences! [This opportunity](_/../registration.md)
